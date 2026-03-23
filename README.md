@@ -2,7 +2,7 @@
 
 一个部署在 GitHub Pages 的个人博客静态站点仓库。
 
-站点地址：<https://alone19thyz.github.io/>
+站点地址：<https://chengxiaoyu1119.github.io/>
 
 ## 技术栈
 
